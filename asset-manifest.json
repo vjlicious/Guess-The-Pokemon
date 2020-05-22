@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Guess-The-Pokemon/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/Guess-The-Pokemon/static/js/main.82f5230f.chunk.js",
+    "main.js.map": "/Guess-The-Pokemon/static/js/main.82f5230f.chunk.js.map",
+    "runtime-main.js": "/Guess-The-Pokemon/static/js/runtime-main.24b96cfa.js",
+    "runtime-main.js.map": "/Guess-The-Pokemon/static/js/runtime-main.24b96cfa.js.map",
+    "static/js/2.08034478.chunk.js": "/Guess-The-Pokemon/static/js/2.08034478.chunk.js",
+    "static/js/2.08034478.chunk.js.map": "/Guess-The-Pokemon/static/js/2.08034478.chunk.js.map",
+    "index.html": "/Guess-The-Pokemon/index.html",
+    "precache-manifest.44b104673bd7622c91ec1a4abd9cbcf2.js": "/Guess-The-Pokemon/precache-manifest.44b104673bd7622c91ec1a4abd9cbcf2.js",
+    "service-worker.js": "/Guess-The-Pokemon/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/Guess-The-Pokemon/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.08034478.chunk.js.LICENSE.txt": "/Guess-The-Pokemon/static/js/2.08034478.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Guess-The-Pokemon/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24b96cfa.js",
+    "static/js/2.08034478.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.82f5230f.chunk.js"
+  ]
+}
